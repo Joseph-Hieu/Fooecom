@@ -1,0 +1,14 @@
+{
+    "name": "fooecom/sample",
+    "description": "Demo package",
+    "type": "LARAVEL",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JosHieu",
+            "email": "hieunguyenductt6@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
